@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Hide Leaflet watermark & attribution flags */
+.leaflet-control-attribution {
+  display: none !important;
+}
